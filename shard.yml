@@ -1,0 +1,9 @@
+name: slack-logger
+version: 0.1.0
+
+authors:
+  - tbrand <taichiro0709@gmail.com>
+
+crystal: 0.23.1
+
+license: MIT
